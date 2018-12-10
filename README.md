@@ -49,4 +49,4 @@ Displaying user's posting base on posting date. User can edit profile and add ad
 Notify following and comment to user.
 
 ### 2.6 Posting Page.
-User post goods' picture and comment.
+User posts goods' picture and comment.
