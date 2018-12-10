@@ -8,6 +8,7 @@ IOS application helps users sharing and selling their books and used stuff. The 
 2. Showing other user's goods depending on their following and searching.
 3. Editing user's information.
 
+Language - Swift(Front End), PHP(To Connect with datadase), MYSQL(DataBase)
 ## Some Screen shots of the application
 <div align = "center">
 <img width="257" alt="screen shot 2018-12-09 at 10 54 54 pm" src="https://user-images.githubusercontent.com/20048273/49710597-8a001800-fc08-11e8-8e38-1d0b5f15b9ce.png">
