@@ -9,6 +9,19 @@ IOS application helps users sharing and selling their books and used stuff. The 
 3. Editing user's information.
 
 ## Some Screen shots of the application
+<div align = "center">
+<img width="257" alt="screen shot 2018-12-09 at 10 54 54 pm" src="https://user-images.githubusercontent.com/20048273/49710597-8a001800-fc08-11e8-8e38-1d0b5f15b9ce.png">
+<img width="258" alt="screen shot 2018-12-09 at 10 55 14 pm" src="https://user-images.githubusercontent.com/20048273/49710640-bddb3d80-fc08-11e8-820c-8245f4d329d5.png">
+<img  width="259" alt="screen shot 2018-12-09 at 10 55 37 pm" src="https://user-images.githubusercontent.com/20048273/49710715-33dfa480-fc09-11e8-810f-a035c30d04c0.png">
+  </div>
+
+
+<div align = "center">
+<img width="274" alt="screen shot 2018-12-09 at 10 57 11 pm" src="https://user-images.githubusercontent.com/20048273/49710825-ea438980-fc09-11e8-91ef-2f2f9166da1d.png">
+<img width="264" alt="screen shot 2018-12-09 at 10 57 22 pm" src="https://user-images.githubusercontent.com/20048273/49710852-0a734880-fc0a-11e8-8f07-6c8ff3370823.png">
+  <img width="261" alt="screen shot 2018-12-09 at 11 29 13 pm" src="https://user-images.githubusercontent.com/20048273/49710898-50c8a780-fc0a-11e8-8eeb-8a0b395975bb.png">
+  </div>
+
 
 
 ## 2. Functionality.
